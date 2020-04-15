@@ -1,6 +1,6 @@
 <?php
 
-class Database
+class LitheDB
 {
   private $conn;
   function __construct($dbname)
